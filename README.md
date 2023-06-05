@@ -14,7 +14,7 @@ A Background generator tool used for creating and selecting nice linear gradient
 - getElementByClassName
 - getElementById
 - querySelector
-- querySelectorAll etc and all adding event listeners.
+- querySelectorAll etc and also adding event listeners.
 
 ### Screenshot
 
