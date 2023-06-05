@@ -29,4 +29,4 @@ A Background generator tool used for creating and selecting nice linear gradient
 
 - HTML5
 - CSS
-- JavaScript# Background-Generator
+- JavaScript
