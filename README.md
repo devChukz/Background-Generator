@@ -22,8 +22,8 @@ A Background generator tool used for creating and selecting nice linear gradient
 
 ### Links
 
-- Solution URL: [CLICK ME]()
-- Live Site URL: [CLICK ME]()
+- Solution URL: [CLICK ME](https://github.com/devChukz/Background-Generator)
+- Live Site URL: [CLICK ME](https://background-generator-gilt.vercel.app/)
 
 ### Built with
 
